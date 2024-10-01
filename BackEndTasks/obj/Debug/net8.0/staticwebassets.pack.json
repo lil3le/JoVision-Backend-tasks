@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\JoVision-Backend-tasks\\BackEndTasks\\wwwroot\\uploads\\Poster.jpg",
+      "PackagePath": "staticwebassets\\uploads\\Poster.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\JoVision-Backend-tasks\\BackEndTasks\\wwwroot\\uploads\\Poster.json",
+      "PackagePath": "staticwebassets\\uploads\\Poster.json"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\JoVision-Backend-tasks\\BackEndTasks\\wwwroot\\uploads\\personwalking (1).jpg",
+      "PackagePath": "staticwebassets\\uploads\\personwalking (1).jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\JoVision-Backend-tasks\\BackEndTasks\\wwwroot\\uploads\\personwalking (1).json",
+      "PackagePath": "staticwebassets\\uploads\\personwalking (1).json"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\JoVision-Backend-tasks\\BackEndTasks\\wwwroot\\uploads\\personwalking.jpg",
+      "PackagePath": "staticwebassets\\uploads\\personwalking.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\JoVision-Backend-tasks\\BackEndTasks\\wwwroot\\uploads\\personwalking.json",
+      "PackagePath": "staticwebassets\\uploads\\personwalking.json"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BackEndTasks.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BackEndTasks.props",
+      "PackagePath": "build\\BackEndTasks.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BackEndTasks.props",
+      "PackagePath": "buildMultiTargeting\\BackEndTasks.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BackEndTasks.props",
+      "PackagePath": "buildTransitive\\BackEndTasks.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
