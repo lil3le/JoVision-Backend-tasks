@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Documents\\GitHub\\JoVision-Backend-tasks\\BackEndTasks\\BackEndTasks.csproj": {}
+    "C:\\GitHub\\JoVision-Backend-tasks\\BackEndTasks\\BackEndTasks.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Documents\\GitHub\\JoVision-Backend-tasks\\BackEndTasks\\BackEndTasks.csproj": {
+    "C:\\GitHub\\JoVision-Backend-tasks\\BackEndTasks\\BackEndTasks.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Documents\\GitHub\\JoVision-Backend-tasks\\BackEndTasks\\BackEndTasks.csproj",
+        "projectUniqueName": "C:\\GitHub\\JoVision-Backend-tasks\\BackEndTasks\\BackEndTasks.csproj",
         "projectName": "BackEndTasks",
-        "projectPath": "C:\\Users\\user\\Documents\\GitHub\\JoVision-Backend-tasks\\BackEndTasks\\BackEndTasks.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Documents\\GitHub\\JoVision-Backend-tasks\\BackEndTasks\\obj\\",
+        "projectPath": "C:\\GitHub\\JoVision-Backend-tasks\\BackEndTasks\\BackEndTasks.csproj",
+        "packagesPath": "C:\\Users\\aliob\\.nuget\\packages\\",
+        "outputPath": "C:\\GitHub\\JoVision-Backend-tasks\\BackEndTasks\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\aliob\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -78,7 +74,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
